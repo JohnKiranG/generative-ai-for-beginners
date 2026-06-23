@@ -1,0 +1,14 @@
+{
+  "questions": [
+    "What kind of model is GPT‑3??",
+    "Which model does RoBERTa improve upon?",
+    "Why did RoBERTa remove the NSP task?",
+    "How many parameters does GPT‑3 have (roughly)?",
+    "Does RoBERTa train with more data than BERT?",
+    "What is zero‑shot learning?",
+    "What does the T5 paper mean by the text-to-text framework?",
+    "What is the C4 dataset used in the T5 paper?",
+    "Why does T5 use a denoising pre-training objective?",
+    "What type of model is GPT-3 and what does in-context learning mean?"
+  ]
+}
